@@ -1,0 +1,9 @@
+{
+    "name": "nordic-power-watch",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "fast-xml-parser": "4.4.1"
+    }
+  }
+  
